@@ -1,0 +1,141 @@
+[
+    {
+        "name": "console",
+        "type": "cg",
+        "value": "c"
+    },
+    {
+        "name": "import",
+        "type": "cg",
+        "value": "i"
+    },
+    {
+        "name": "export",
+        "type": "cg",
+        "value": "e"
+    },
+    {
+        "name": "export_all",
+        "type": "cg",
+        "value": "E"
+    },
+    {
+        "name": "module",
+        "type": "cg",
+        "value": "m"
+    },
+    {
+        "name": "no_implicit_prelude",
+        "type": "cg",
+        "value": "n"
+    },
+    {
+        "name": "no_main",
+        "type": "cg",
+        "value": "M"
+    },
+    {
+        "name": "no_stdlib",
+        "type": "cg",
+        "value": "N"
+    },
+    {
+        "name": "no_stdlib_asserts",
+        "type": "cg",
+        "value": "A"
+    },
+    {
+        "name": "no_stdlib_prelude",
+        "type": "cg",
+        "value": "P"
+    },
+    {
+        "name": "no_stdlib_imports",
+        "type": "cg",
+        "value": "I"
+    },
+    {
+        "name": "no_stdlib_imports_asserts",
+        "type": "cg",
+        "value": "S"
+    },
+    {
+        "name": "no_stdlib_imports_prelude",
+        "type": "cg",
+        "value": "R"
+    },
+    {
+        "name": "no_stdlib_imports_prelude_asserts",
+        "type": "cg",
+        "value": "T"
+    },
+    {
+        "name": "no_stdlib_imports_prelude_imports",
+        "type": "cg",
+        "value": "U"
+    },
+    
+
+    {
+        "name": "log",
+        "type": "co",
+        "value": "l"
+    },
+    {
+        "name": "error",
+        "type": "co",
+        "value": "e"
+    },
+    {
+        "name": "warn",
+        "type": "co",
+        "value": "w"
+    },
+    {
+        "name": "info",
+        "type": "co",
+        "value": "i"
+    },
+    {
+        "name": "debug",
+        "type": "co",
+        "value": "d"
+    },
+    {
+        "name": "trace",
+        "type": "co",
+        "value": "t"
+    },
+    {
+        "name": "verbose",
+        "type": "co",
+        "value": "v"
+    },
+    {
+        "name": "quiet",
+        "type": "co",
+        "value": "q"
+    },
+    {
+        "name": "color",
+        "type": "co",
+        "value": "c"
+    },
+
+
+    {
+        "name": "const",
+        "type": "cd",
+        "value": "c"
+    },
+    {
+        "name": "let",
+        "type": "cd",
+        "value": "l"
+    },
+    {
+        "name": "var",
+        "type": "cd",
+        "value": "v"
+    }
+]

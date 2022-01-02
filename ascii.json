@@ -1,0 +1,382 @@
+[
+    {
+        "string": "A",
+        "code": "65"
+    },
+    {
+        "string": "B",
+        "code": "66"
+    },
+    {
+        "string": "C",
+        "code": "67"
+    },
+    {
+        "string": "D",
+        "code": "68"
+    },
+    {
+        "string": "E",
+        "code": "69"
+    },
+    {
+        "string": "F",
+        "code": "70"
+    },
+    {
+        "string": "G",
+        "code": "71"
+    },
+    {
+        "string": "H",
+        "code": "72"
+    },
+    {
+        "string": "I",
+        "code": "73"
+    },
+    {
+        "string": "J",
+        "code": "74"
+    },
+    {
+        "string": "K",
+        "code": "75"
+    },
+    {
+        "string": "L",
+        "code": "76"
+    },
+    {
+        "string": "M",
+        "code": "77"
+    },
+    {
+        "string": "N",
+        "code": "78"
+    },
+    {
+        "string": "O",
+        "code": "79"
+    },
+    {
+        "string": "P",
+        "code": "80"
+    },
+    {
+        "string": "Q",
+        "code": "81"
+    },
+    {
+        "string": "R",
+        "code": "82"
+    },
+    {
+        "string": "S",
+        "code": "83"
+    },
+    {
+        "string": "T",
+        "code": "84"
+    },
+    {
+        "string": "U",
+        "code": "85"
+    },
+    {
+        "string": "V",
+        "code": "86"
+    },
+    {
+        "string": "W",
+        "code": "87"
+    },
+    {
+        "string": "X",
+        "code": "88"
+    },
+    {
+        "string": "Y",
+        "code": "89"
+    },
+    {
+        "string": "Z",
+        "code": "90"
+    },
+    {
+        "string": "a",
+        "code": "97"
+    },
+    {
+        "string": "b",
+        "code": "98"
+    },
+    {
+        "string": "c",
+        "code": "99"
+    },
+    {
+        "string": "d",
+        "code": "100"
+    },
+    {
+        "string": "e",
+        "code": "101"
+    },
+    {
+        "string": "f",
+        "code": "102"
+    },
+    {
+        "string": "g",
+        "code": "103"
+    },
+    {
+        "string": "h",
+        "code": "104"
+    },
+    {
+        "string": "i",
+        "code": "105"
+    },
+    {
+        "string": "j",
+        "code": "106"
+    },
+    {
+        "string": "k",
+        "code": "107"
+    },
+    {
+        "string": "l",
+        "code": "108"
+    },
+    {
+        "string": "m",
+        "code": "109"
+    },
+    {
+        "string": "n",
+        "code": "110"
+    },
+    {
+        "string": "o",
+        "code": "111"
+    },
+    {
+        "string": "p",
+        "code": "112"
+    },
+    {
+        "string": "q",
+        "code": "113"
+    },
+    {
+        "string": "r",
+        "code": "114"
+    },
+    {
+        "string": "s",
+        "code": "115"
+    },
+    {
+        "string": "t",
+        "code": "116"
+    },
+    {
+        "string": "u",
+        "code": "117"
+    },
+    {
+        "string": "v",
+        "code": "118"
+    },
+    {
+        "string": "w",
+        "code": "119"
+    },
+    {
+        "string": "x",
+        "code": "120"
+    },
+    {
+        "string": "y",
+        "code": "121"
+    },
+    {
+        "string": "z",
+        "code": "122"
+    },
+    {
+        "string": "0",
+        "code": "48"
+    },
+    {
+        "string": "1",
+        "code": "49"
+    },
+    {
+        "string": "2",
+        "code": "50"
+    },
+    {
+        "string": "3",
+        "code": "51"
+    },
+    {
+        "string": "4",
+        "code": "52"
+    },
+    {
+        "string": "5",
+        "code": "53"
+    },
+    {
+        "string": "6",
+        "code": "54"
+    },
+    {
+        "string": "7",
+        "code": "55"
+    },
+    {
+        "string": "8",
+        "code": "56"
+    },
+    {
+        "string": "9",
+        "code": "57"
+    },
+    {
+        "string": " ",
+        "code": "32"
+    },
+    {
+        "string": "!",
+        "code": "33"
+    },
+    {
+        "string": "\"",
+        "code": "34"
+    },
+    {
+        "string": "#",
+        "code": "35"
+    },
+    {
+        "string": "$",
+        "code": "36"
+    },
+    {
+        "string": "%",
+        "code": "37"
+    },
+    {
+        "string": "&",
+        "code": "38"
+    },
+    {
+        "string": "'",
+        "code": "39"
+    },
+    {
+        "string": "(",
+        "code": "40"
+    },
+    {
+        "string": ")",
+        "code": "41"
+    },
+    {
+        "string": "*",
+        "code": "42"
+    },
+    {
+        "string": "+",
+        "code": "43"
+    },
+    {
+        "string": ",",
+        "code": "44"
+    },
+    {
+        "string": "-",
+        "code": "45"
+    },
+    {
+        "string": ".",
+        "code": "46"
+    },
+    {
+        "string": "/",
+        "code": "47"
+    },
+    {
+        "string": ":",
+        "code": "58"
+    },
+    {
+        "string": ";",
+        "code": "59"
+    },
+    {
+        "string": "<",
+        "code": "60"
+    },
+    {
+        "string": "=",
+        "code": "61"
+    },
+    {
+        "string": ">",
+        "code": "62"
+    },
+    {
+        "string": "?",
+        "code": "63"
+    },
+    {
+        "string": "@",
+        "code": "64"
+    },
+    {
+        "string": "[",
+        "code": "91"
+    },
+    {
+        "string": "\\",
+        "code": "92"
+    },
+    {
+        "string": "]",
+        "code": "93"
+    },
+    {
+        "string": "^",
+        "code": "94"
+    },
+    {
+        "string": "_",
+        "code": "95"
+    },
+    {
+        "string": "`",
+        "code": "96"
+    },
+    {
+        "string": "{",
+        "code": "123"
+    },
+    {
+        "string": "|",
+        "code": "124"
+    },
+    {
+        "string": "}",
+        "code": "125"
+    },
+    {
+        "string": "~",
+        "code": "126"
+    }
+]
